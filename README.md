@@ -1,45 +1,60 @@
-<h1 align="center">👋 Yo, I'm Thibaut Hozanne</h1>
-<h3 align="center">C:\> 17 y/o • Lévis, Canada</h3>
+<h1 align="center">👋 Salut, moi c’est Thibaut Hozanne</h1>
+<h3 align="center">Développeur web & créateur de solutions numériques — Lévis, Canada</h3>
+
+---
 
 ```py
-class Twoloki():
-    
+class Developer:
     def __init__(self):
-        self.username = "101knkn_qc"
-        self.name = "Thibaut H."
-        self.age = 17
-        self.location = "Lévis, Canada"
-        self.instagram = "@101knkn_qc"
-        self.discord = "@101knkn_qc"
+        self.handle = "101knknqc"
+        self.name = "Thibaut Hozanne"
+        self.location = "Lévis, QC, Canada"
+        self.focus = [
+            "Web development",
+            "Live broadcasting",
+            "Automation",
+            "Media systems"
+        ]
 
-    def passions(self):
-        return ["Web Dev", "Radio", "Drone", "Streaming"]
+    def philosophy(self):
+        return "Build useful things. Keep them simple. Make them last."
 
-    def motto(self):
-        return "Code. Create. Inspire."
-
-DevLife = Twoloki()
-
-while True:
-    DevLife.passions()
-````
+me = Developer()
+```
 
 ---
 
-* 👑 **Director at [SannaScore](https://sannascore.en.gp/)**
-* 🎙️ Régie & Radio **Corsaires - Pointe-Lévy**
-* 🚁 Drone pilot (225g certified 😏)
-* ⚡ Fun fact: **Started coding at 8 years old**
+### 🧭 À propos de moi
+
+Je développe des **outils concrets et durables**, orientés médias, diffusion en direct et automatisation.  
+Approche artisanale : comprendre avant d’optimiser, construire avant d’embellir.
 
 ---
 
-### 📊 Stats & Tools
+### 🛠️ Activités & rôles
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=101knknqc\&layout=compact\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- 👑 **Directeur & fondateur — [SannaScore](https://sannascore.en.gp/)**
+- 🎙️ **Régie & diffusion radio** — Corsaires, Pointe-Lévy
+- 🚁 **Pilote de drone** (catégorie 225g)
+- 🧠 Développement orienté performance et stabilité
 
 ---
 
-### ✍️ Daily Quote
+### ⚙️ Technologies & stack
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+- PHP / JavaScript / Python  
+- MySQL / APIs / automatisation  
+- Web temps réel & systèmes d’affichage  
+- Infrastructure légère & solutions auto-hébergées  
 
+---
+
+### 📊 Statistiques GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=101knknqc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✒️ Principe du jour
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
