@@ -51,7 +51,7 @@ Approche artisanale : comprendre avant d’optimiser, construire avant d’embel
 
 ### 📊 Statistiques GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=101knknqc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![101knknqc's GitHub stats](https://github-readme-stats.vercel.app/api?username=101knknqc)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
